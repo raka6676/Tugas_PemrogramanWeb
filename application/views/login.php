@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>COD</title>
+  <title>Cash On Delivery (C.O.D)</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->  
@@ -73,7 +73,7 @@
           </div>
         </form>
 
-        <div class="login100-more" style="background-image: url('assets/images/bg-01.png');">
+        <div class="login100-more" style="background: url('assets/images/bg.png');">
         </div>
       </div>
     </div>
