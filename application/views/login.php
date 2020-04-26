@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Login V18</title>
+  <title>COD</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->  
@@ -39,14 +39,14 @@
           
           
           <div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
-            <input class="input100" type="text" name="email">
+            <input class="input100" type="text" name="username">
             <span class="focus-input100"></span>
             <span class="label-input100">User ID</span>
           </div>
           
           
           <div class="wrap-input100 validate-input" data-validate="Password is required">
-            <input class="input100" type="password" name="pass">
+            <input class="input100" type="password" name="password">
             <span class="focus-input100"></span>
             <span class="label-input100">Password</span>
           </div>
