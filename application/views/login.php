@@ -60,7 +60,7 @@
           
           <div class="text-center p-t-46 p-b-20">
             <span class="txt4">
-              Silahkan Hubungi Customer Service Kantor Pos Setempat Jika Lupa Password
+              Silahkan Hubungi Customer Service Kantor Pos Setempat Jika Lupa 
             </span>
           </div>
 
