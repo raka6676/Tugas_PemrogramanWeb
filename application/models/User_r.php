@@ -13,4 +13,4 @@ class User_r extends CI_Model {
  
 	}
  
-} 
+}  
