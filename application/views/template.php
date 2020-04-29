@@ -99,9 +99,9 @@
                       <span class="pull-right-container"><i class="fa fa-angle-left pull-right"></i></span>
                     </a>
                     <ul class="treeview-menu">
-                      <li><a href="#"><i class="fa fa-circle-o"></i> Buat Pesanan Baru</a></li>
-                      <li><a href="#"><i class="fa fa-circle-o"></i> Pesanan Belum Diproses</a></li>
-                      <li><a href="#"><i class="fa fa-circle-o"></i> Data order COD</a></li>
+                      <li><a href="#"><i class="fa fa-cart-plus"></i> Buat Pesanan Baru</a></li>
+                      <li><a href="#"><i class="fa fa-spinner"></i> Pesanan Belum Diproses</a></li>
+                      <li><a href="#"><i class="fa fa-hourglass-start"></i> Data order COD</a></li>
                     </ul>
                   </li>
                     <li class="treeview">
