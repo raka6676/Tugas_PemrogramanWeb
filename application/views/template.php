@@ -110,9 +110,9 @@
                       <span class="pull-right-container"><i class="fa fa-angle-left pull-right"></i></span>
                     </a>
                     <ul class="treeview-menu">
-                      <li><a href="#"><i class="fa fa-circle-o"></i> Rekap Pesanan Harian</a></li>
-                      <li><a href="#"><i class="fa fa-circle-o"></i> Rekap Invoice</a></li>
-                      <li><a href="#"><i class="fa fa-circle-o"></i> Cetak Label </a></li>
+                      <li><a href="#"><i class="fa fa-list-alt"></i> Rekap Pesanan Harian</a></li>
+                      <li><a href="#"><i class="fa fa-list-alt"></i> Rekap Invoice</a></li>
+                      <li><a href="#"><i class="fa fa-barcode"></i> Cetak Label </a></li>
                     </ul>
                   </li>
                   </li>
@@ -122,9 +122,9 @@
                       <span class="pull-right-container"><i class="fa fa-angle-left pull-right"></i></span>
                     </a>
                     <ul class="treeview-menu">
-                      <li><a href="#"><i class="fa fa-circle-o"></i> Cek Status Kiriman</a></li>
-                      <li><a href="#"><i class="fa fa-circle-o"></i> Cek Tarif Kiriman</a></li>
-                      <li><a href="#"><i class="fa fa-circle-o"></i> Ganti Password</a></li>
+                      <li><a href="#"><i class="fa fa-info"></i> Cek Status Kiriman</a></li>
+                      <li><a href="#"><i class="fa fa-money"></i> Cek Tarif Kiriman</a></li>
+                      <li><a href="#"><i class="fa fa-lock"></i> Ganti Password</a></li>
                     </ul>
                   </li>
 
@@ -145,8 +145,8 @@
             <div class="pull-right hidden-xs">
               <b>Version</b> 1.0
             </div>
-            <strong>Copyright &copy; 2019 <a href="https://yukcoding.id">YukCoding Tutor</a>.</strong> All right reserved.
-          </footer>
+           <strong>Copyright &copy; 2019 <a href="https://posindonesia.co.id">PT. Pos Indonesia (Persero)</a>.</strong> All rights
+    reserved.  </footer>
     </div>  
 
   <script src="<?=base_url()?>assets/bower_components/jquery/dist/jquery.min.js"></script>
