@@ -99,9 +99,9 @@
                       <span class="pull-right-container"><i class="fa fa-angle-left pull-right"></i></span>
                     </a>
                     <ul class="treeview-menu">
-                      <li><a href="#"><i class="fa fa-cart-plus"></i> Buat Pesanan Baru</a></li>
-                      <li><a href="#"><i class="fa fa-spinner"></i> Pesanan Belum Diproses</a></li>
-                      <li><a href="#"><i class="fa fa-hourglass-start"></i> Data order COD</a></li>
+                      <li><a href="<?=base_url('pesananbaru')?>"><i class="fa fa-cart-plus"></i> Buat Pesanan Baru</a></li>
+                      <li><a href="<?=base_url('pesananblm')?>"><i class="fa fa-spinner"></i> Pesanan Belum Diproses</a></li>
+                      <li><a href="<?=base_url('dataorder')?>"><i class="fa fa-hourglass-start"></i> Data order COD</a></li>
                     </ul>
                   </li>
                     <li class="treeview">
@@ -110,9 +110,9 @@
                       <span class="pull-right-container"><i class="fa fa-angle-left pull-right"></i></span>
                     </a>
                     <ul class="treeview-menu">
-                      <li><a href="#"><i class="fa fa-list-alt"></i> Rekap Pesanan Harian</a></li>
-                      <li><a href="#"><i class="fa fa-list-alt"></i> Rekap Invoice</a></li>
-                      <li><a href="#"><i class="fa fa-barcode"></i> Cetak Label </a></li>
+                      <li><a href="<?=base_url('pesananharian')?>"><i class="fa fa-list-alt"></i> Rekap Pesanan Harian</a></li>
+                      <li><a href="<?=base_url('rekapinvoice')?>"><i class="fa fa-list-alt"></i> Rekap Invoice</a></li>
+                      <li><a href="<?=base_url('cetaklabel')?>"><i class="fa fa-barcode"></i> Cetak Label </a></li>
                     </ul>
                   </li>
                   </li>
@@ -122,8 +122,8 @@
                       <span class="pull-right-container"><i class="fa fa-angle-left pull-right"></i></span>
                     </a>
                     <ul class="treeview-menu">
-                      <li><a href="#"><i class="fa fa-info"></i> Cek Status Kiriman</a></li>
-                      <li><a href="#"><i class="fa fa-money"></i> Cek Tarif Kiriman</a></li>
+                      <li><a href="<?=base_url('cekstatus')?>"><i class="fa fa-info"></i> Cek Status Kiriman</a></li>
+                      <li><a href="<?=base_url('cektarif')?>"><i class="fa fa-money"></i> Cek Tarif Kiriman</a></li>
                       <li><a href="#"><i class="fa fa-lock"></i> Ganti Password</a></li>
                     </ul>
                   </li>
