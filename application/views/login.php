@@ -64,7 +64,7 @@
           </div>
 
           <div class="text-center p-t-46 p-b-20">
-            <span class="txt5">
+            <span class="txt1">
               Copyright@posindonesia.co.id - 2019
             </span>
           </div>

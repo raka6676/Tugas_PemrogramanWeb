@@ -91,7 +91,7 @@
     <ul class="sidebar-menu" data-widget="tree">
                   <li class="header">MENU UTAMA</li>
                   <li>
-                      <a href=""><i class="fa fa-dashboard"></i> <span>Dashboard</span></a>
+                      <a href="<?=base_url('Dashboard')?>"><i class="fa fa-dashboard"></i> <span>Dashboard</span></a>
                     </li>
                     <li class="treeview">
                     <a href="#">
