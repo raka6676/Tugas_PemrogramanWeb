@@ -27,7 +27,7 @@
   <link rel="stylesheet" type="text/css" href="<?=base_url()?>assets/css/main.css">
 <!--===============================================================================================-->
 </head>
-<body style="background-color: #666666;">
+<body style="background-image: url('assets/images/pos.jpeg')">
   <div class="limiter">
     <div class="container-login100">
       <div class="wrap-login100">
@@ -72,7 +72,7 @@
           </div>
         </form>
 
-        <div class="login100-more" style="background: url('assets/images/pos.jpeg');">
+        <div class="login100-more" style="background-image: url('assets/images/pos.jpeg');">
         </div>
       </div>
     </div>
